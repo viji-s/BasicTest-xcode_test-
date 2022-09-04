@@ -12,6 +12,12 @@ struct BasicTestApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+            bcsdcd
+            jdndncm
+            cbbcdc
+            dbcadbcadcd
+            
         }
     }
 }
